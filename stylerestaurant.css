@@ -1,0 +1,30 @@
+
+
+
+.blocpage{
+    width=1200px
+}
+body{
+    background-color: rgb(104, 64, 49);
+    max-width: 1200px;
+   
+    margin: auto
+}
+
+header{
+    height: auto;
+    width=1200px;
+}
+nav ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+    text
+}
+p{
+    font-family:600;
+}
